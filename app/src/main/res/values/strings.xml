@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bansos App</string>
+
+    <!-- Slider Text -->
+    <string name="slider_1">Plan ahead your expenses \n and gain total control</string>
+    <string name="slider_2">Opportunities will come to \n those who are always trying</string>
+    <string name="slider_3">Great people are formed \n by a clash of problems</string>
+</resources>
