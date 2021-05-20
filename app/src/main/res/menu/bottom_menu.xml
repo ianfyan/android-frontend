@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_home"
+        android:title="Home"
+        android:icon="@drawable/icon_home"
+        app:showAsAction="always|withText"/>
+    <item
+        android:id="@+id/menu_bansos"
+        android:title="Bansos"
+        android:icon="@drawable/icon_bag"
+        app:showAsAction="always|withText"/>
+    <item
+        android:id="@+id/menu_add"
+        android:title=""/>
+    <item
+        android:id="@+id/menu_analis"
+        android:title="Analyze"
+        android:icon="@drawable/icon_graphic"
+        app:showAsAction="always|withText"/>
+    <item
+        android:id="@+id/menu_map"
+        android:title="Tracking"
+        android:icon="@drawable/icon_map"
+        app:showAsAction="always|withText"/>
+</menu>

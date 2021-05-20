@@ -9,8 +9,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.BansosApp">
-        <activity android:name=".ui.activity.auth.LoginActivity"
-            android:theme="@style/noHeader"></activity>
+        <activity
+            android:name=".ui.activity.home.HomeActivity"></activity>
+        <activity
+            android:name=".ui.activity.auth.LoginActivity"
+            android:theme="@style/noHeader" />
         <activity
             android:name=".ui.activity.slider.SliderActivity"
             android:theme="@style/SplashScreenTheme" />
