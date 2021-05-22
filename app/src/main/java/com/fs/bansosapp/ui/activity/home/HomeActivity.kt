@@ -1,11 +1,12 @@
 package com.fs.bansosapp.ui.activity.home
 
-import androidx.appcompat.app.AppCompatActivity
+import android.content.Intent
 import android.os.Bundle
-import android.widget.Toast
+import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.Fragment
 import com.fs.bansosapp.R
 import com.fs.bansosapp.databinding.ActivityHomeBinding
+import com.fs.bansosapp.ui.activity.crud.CrudActivity
 
 class HomeActivity : AppCompatActivity() {
 
@@ -33,7 +34,7 @@ class HomeActivity : AppCompatActivity() {
         }
 
         binding.fab.setOnClickListener {
-            Toast.makeText(this, "Add Data Here!...", Toast.LENGTH_SHORT).show()
+            startActivity(Intent(this, CrudActivity::class.java))
         }
     }
 }

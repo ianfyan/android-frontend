@@ -1,9 +1,9 @@
 package com.fs.bansosapp.ui.activity.slider
 
 import android.content.Intent
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.os.Handler
+import androidx.appcompat.app.AppCompatActivity
 import androidx.viewpager2.widget.ViewPager2
 import com.fs.bansosapp.R
 import com.fs.bansosapp.data.SliderModel

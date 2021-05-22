@@ -1,8 +1,8 @@
 package com.fs.bansosapp.ui.activity.splash
 
 import android.content.Intent
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
 import com.fs.bansosapp.databinding.ActivitySplashScreenBinding
 import com.fs.bansosapp.ui.activity.slider.SliderActivity
 
