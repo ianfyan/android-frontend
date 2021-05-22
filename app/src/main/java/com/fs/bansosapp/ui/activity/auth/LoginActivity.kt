@@ -1,8 +1,8 @@
 package com.fs.bansosapp.ui.activity.auth
 
 import android.content.Intent
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
 import com.fs.bansosapp.databinding.ActivityLoginBinding
 import com.fs.bansosapp.ui.activity.home.HomeActivity
 
