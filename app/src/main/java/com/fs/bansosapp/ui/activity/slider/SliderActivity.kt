@@ -6,7 +6,7 @@ import android.os.Handler
 import androidx.appcompat.app.AppCompatActivity
 import androidx.viewpager2.widget.ViewPager2
 import com.fs.bansosapp.R
-import com.fs.bansosapp.data.SliderModel
+import com.fs.bansosapp.data.model.SliderModel
 import com.fs.bansosapp.databinding.ActivitySliderBinding
 import com.fs.bansosapp.ui.activity.auth.LoginActivity
 import com.fs.bansosapp.ui.adapter.SliderAdapter
