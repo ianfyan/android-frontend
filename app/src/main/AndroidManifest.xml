@@ -15,7 +15,7 @@
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="" />
+            android:value="AIzaSyBnw9IW9-f15eTfkPPsZjh5xjCkejHZwfw" />
 
         <activity android:name=".ui.activity.crud.CrudActivity"
             android:theme="@style/noHeader" ></activity>
