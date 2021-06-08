@@ -27,7 +27,7 @@ These are steps that need to be done for development :
 - Fork this repository
 - Create issue in this repository about what problem you want to fix / what feature you want to add
 - Start the development in your own repository by first creating branch that are unique to the development (problem to fix / feature to add)
-- Open pull request to this repository and ask maintainer (anantara-android-team) that consist of [@fyan](https://github.com/ianfyan) and [@alif](https://github.com/alifsiregar) to review the PR
+- Open pull request to this repository and ask maintainer (anantara-frontend-team) that consist of [@fyan](https://github.com/ianfyan) and [@alif](https://github.com/alifsiregar) to review the PR
 - Wait for the review approval and merge if approved
 
 ## Deployment
